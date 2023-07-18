@@ -1,0 +1,81 @@
+/* Custom Properties */
+
+/* =====================Par 2--------------------------- */
+
+:root {
+  /* color */
+  --clr-gray: 0 0% 86.3%;
+  --clr-gray-light: 0 0% 93.3%;
+  --clr-red: 356.7 90.1% 56.5%;
+  --clr-black: 0 0% 21.2%;
+  --clr-yellow: 43.8 99% 58.8%;
+  --clr-very-light-gray: 300 2.7% 92.7%;
+  --clr-green: 144.3 64.4% 49.6%;
+  --clr-blue: 214.5 100% 53.9%;
+  --clr-white: 0 0% 100%;
+
+  /* font-size */
+  /* --fs-bf-194: 12.125rem; */
+  --fs-bf-194: 12.3vw;
+  --fs-bf-109: 6.8125rem;
+  --fs-bf-65: 4.065rem;
+  --fs-bf-80: 5rem;
+  --fs-bf-50: 3.125rem;
+  --fs-bf-45: 2.8125rem;
+  --fs-bf-30: 1.875rem;
+  --fs-bf-20: 1.25rem;
+  --fs-bf-16: 1rem;
+  --fs-bf-15: 0.9375rem;
+
+  /* font family */
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-poppins: "Poppins", sans-serif;
+}
+
+/* =====================Par 2--------------------------- */
+
+@media (max-width: 35em) {
+  :root {
+    --fs-bf-194: 12.3vw;
+    --fs-bf-109: 6.8125rem;
+    --fs-bf-65: 4.065rem;
+    --fs-bf-80: 5rem;
+    --fs-bf-50: 3.125rem;
+    --fs-bf-45: 2.8125rem;
+    --fs-bf-30: 1.875rem;
+    --fs-bf-20: 1rem;
+    --fs-bf-16: 0.8rem;
+    --fs-bf-15: 0.8rem;
+  }
+}
+@media (min-width: 35em) and (max-width: 59em) {
+  :root {
+    --fs-bf-194: 12.3vw;
+    --fs-bf-109: 6.8125rem;
+    --fs-bf-65: 4.065rem;
+    --fs-bf-80: 5rem;
+    --fs-bf-50: 3.125rem;
+    --fs-bf-45: 2.8125rem;
+    --fs-bf-30: 2.55rem;
+    --fs-bf-20: 1.25rem;
+    --fs-bf-16: 1rem;
+    --fs-bf-15: 0.8375rem;
+  }
+}
+
+@media (min-width: 59em) {
+  :root {
+    --fs-bf-194: 12.3vw;
+    --fs-bf-109: 6.8125rem;
+    --fs-bf-65: 4.065rem;
+    --fs-bf-80: 5rem;
+    --fs-bf-50: 3.125rem;
+    --fs-bf-45: 2.8125rem;
+    --fs-bf-30: 1.875rem;
+    --fs-bf-20: 2rem;
+    --fs-bf-16: 1rem;
+    --fs-bf-15: 0.9375rem;
+  }
+}
+
+/* ====================Part 1----------------------------------------------- */
