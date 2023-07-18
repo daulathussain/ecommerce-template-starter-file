@@ -9,9 +9,9 @@ YouTube: https://www.youtube.com/c/DaulatHussain
 
 Resource
 
-Final-Code: https://www.theblockchaincoders.com/sourceCode/build-a-responsive-website-with-html-and-scss-sass
+Final-Code: [https://www.theblockchaincoders.com/sourceCode/build-a-responsive-website-with-html-and-scss-sass](https://www.theblockchaincoders.com/sourceCode/responsive-ecommerce-website-using-html-css-and-javascript)
 
-Starter-file: [https://github.com/daulathussain/tech-people-starter-file](https://github.com/daulathussain/ecommerce-template-starter-file)
+Starter-file: https://github.com/daulathussain/ecommerce-template-starter-file
 
 Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
 
