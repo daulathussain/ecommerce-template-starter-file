@@ -1,24 +1,95 @@
-# IMPORTANT LINK FOR PROJECT
+
+# Building and Deploying a Blockchain NFT Marketplace DApp
+
+Enter the realm of digital ownership and creativity with our blockchain NFT (Non-Fungible Token) Marketplace DApp. This groundbreaking platform empowers creators and collectors to tokenize and trade unique digital assets securely and transparently on the blockchain.
+
+Our NFT Marketplace DApp provides a decentralized marketplace where creators can mint, showcase, and sell their digital creations as NFTs. These NFTs represent ownership of digital assets, such as art, music, videos, virtual real estate, and more, with each token being one-of-a-kind and indivisible
+
+## Project Overview
+
+![alt text](https://www.daulathussain.com/wp-content/uploads/2023/05/ecommerce.jpg)
+
+## Instruction
+
+Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-@theblockchaincoders
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/responsive-ecommerce-website-using-html-css-and-javascript)
 
-Build your web3 Dapp "MetaMask clone", in which you can provide users to create their own Metakmask wallet.
+#### Setup Video
+- [Final Code Setup video](https://youtu.be/5GBaTLvIDTk?si=GiPEPIZ7musd6tFs)
 
-YouTube: https://www.youtube.com/c/DaulatHussain
+```https://code.visualstudio.com/download
+  WATCH: Setup & Demo Of Project
+```
 
-Resource
 
-Final-Code: [https://www.theblockchaincoders.com/sourceCode/build-a-responsive-website-with-html-and-scss-sass](https://www.theblockchaincoders.com/sourceCode/responsive-ecommerce-website-using-html-css-and-javascript)
+#### Install Vs Code Editor
 
-Starter-file: https://github.com/daulathussain/ecommerce-template-starter-file
+```https://code.visualstudio.com/download
+  GET: VsCode Editor
+```
 
-Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
+#### NodeJs & NPM Version
 
-Support Creator: https://bit.ly/Support-Creator
+```https://nodejs.org/en/download
+  NodeJs: v18.12.1
+  NPM: 8.19.2
+```
 
-All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
 
-Official Website: https://www.theblockchaincoders.com
+#### Clone Starter File
 
-Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
+```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
+  GET: Project Starter File Download
+```
+
+
+All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
+
+## Final Code Instruction
+
+If you download the final source code then you can follow the following instructions to run the Dapp successfully
+
+#### Setup Video
+
+```https://code.visualstudio.com/download
+  WATCH: Setup & Demo Of Project
+```
+
+#### Final Source Code
+
+```https://www.theblockchaincoders.com/SourceCode
+  Download the Final Source Code
+```
+
+#### Install Vs Code Editor
+
+```https://code.visualstudio.com/download
+  GET: VsCode Editor
+```
+
+#### NodeJs & NPM Version
+
+```https://nodejs.org/en/download
+  NodeJs: v18.12.1
+  NPM: 8.19.2
+```
+
+
+
+## Important Links
+
+- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
+- [Support Creator](https://bit.ly/Support-Creator)
+- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
+
+
+## Authors
+
+- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
+- [@consultancy](https://www.theblockchaincoders.com/consultancy)
+- [@youtube](https://www.youtube.com/@daulathussain)
+
+
+
