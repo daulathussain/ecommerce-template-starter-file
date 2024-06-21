@@ -1,9 +1,11 @@
 
-# Building and Deploying a Blockchain NFT Marketplace DApp
+# Ecommerce Website Using HTML CSS & JavaScript How To Build 100% Responsive E-commerce Site
 
-Enter the realm of digital ownership and creativity with our blockchain NFT (Non-Fungible Token) Marketplace DApp. This groundbreaking platform empowers creators and collectors to tokenize and trade unique digital assets securely and transparently on the blockchain.
+Build and deploy a complete eCommerce website template with HTML CSS and JavaScript 100% responsive, for all devices including Tabs, mobile phones, and desktops, Build Responsive eCommerce Website Template HTML CSS & JavaScript.
 
-Our NFT Marketplace DApp provides a decentralized marketplace where creators can mint, showcase, and sell their digital creations as NFTs. These NFTs represent ownership of digital assets, such as art, music, videos, virtual real estate, and more, with each token being one-of-a-kind and indivisible
+100% free to use for commercial purposes, this modern E-commerce website template which we have built only using pure JavaScript HTML CSS no external libraries are included in this complete e-commerce website template.
+
+All the modern techniques of HTML, CSS, and JavaScript, which are essential in building E-commerce website templates are included in this complete E-commerce website development tutorial and website template.
 
 ## Project Overview
 
